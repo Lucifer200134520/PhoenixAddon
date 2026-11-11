@@ -1,1 +1,1 @@
-"# Phoenixioy123" 
+"Команда для отключения/включения Rebirth - /rebirthtoggle" 
