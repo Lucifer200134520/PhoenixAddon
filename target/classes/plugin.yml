@@ -1,0 +1,15 @@
+name: PhoenixAddon
+version: 1.0.0
+main: com.myaddons.phoenixaddon.PhoenixAddonLoader
+api-version: "1.16"
+description: Phoenix Addon для ProjectKorra
+authors:
+  - Lucifer200134520
+  - KazharovFAKE
+depend: [ProjectKorra]
+
+commands:
+  rebirthtoggle:
+    description: Переключить режим Rebirth
+    permission: projectkorra.command.rebirthtoggle
+    usage: /rebirthtoggle
